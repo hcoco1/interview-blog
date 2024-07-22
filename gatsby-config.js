@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Interview Prep Hub`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ivan Arias`,
+      summary: `Full Stack Development with Flask and React | Junior Penetration Tester | AWS Enthusiast`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Help you prepare for any job interview`,
+    siteUrl: `https://www.interview.hcoco1.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hcoco1`,
     },
   },
   plugins: [
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Interview Prep Hub",
           },
         ],
       },
